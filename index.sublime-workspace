@@ -1,0 +1,915 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"btn-s",
+				"btn-secondary\">Thêm\tabc"
+			],
+			[
+				"tr",
+				"trangthai\tabc"
+			],
+			[
+				"q",
+				"query\tabc"
+			],
+			[
+				"dat",
+				"datlichtiem\t(datlich.php)"
+			],
+			[
+				"che",
+				"checked\tabc"
+			],
+			[
+				"list-s",
+				"list-style\tproperty"
+			],
+			[
+				"er",
+				"error_msg\t(Hotel.php)"
+			],
+			[
+				"va",
+				"val\tabc"
+			],
+			[
+				"book",
+				"booking_id\tabc"
+			],
+			[
+				"ch",
+				"checkdone\tabc"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sele",
+				"selected\tabc"
+			],
+			[
+				"remo",
+				"remove\t(): void Element"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"arr",
+				"arr\tabc"
+			],
+			[
+				"de",
+				"detail\tabc"
+			],
+			[
+				"pr",
+				"price\t(detail.php)"
+			],
+			[
+				"lo",
+				"logo\tabc"
+			],
+			[
+				"do",
+				"document\tabc"
+			],
+			[
+				"cli",
+				"click\t(main.js)"
+			],
+			[
+				"map",
+				"maphotel\t(detail.php)"
+			],
+			[
+				"get",
+				"getlatlong\tabc"
+			],
+			[
+				"add",
+				"addressmap\tabc"
+			],
+			[
+				"w",
+				"width\t(detail.php)"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"da",
+				"dalat\tabc"
+			],
+			[
+				"em",
+				"email\t(Hotel.php)"
+			],
+			[
+				"sub",
+				"submit\t(detail.php)"
+			],
+			[
+				"wh",
+				"where\tabc"
+			],
+			[
+				"get_booking_p",
+				"get_booking_people\t(booking_helper.php)"
+			],
+			[
+				"get_booking_e",
+				"get_booking_end\t(booking_helper.php)"
+			],
+			[
+				"booking_st",
+				"booking_start\t(Hotel.php)"
+			],
+			[
+				"end",
+				"enabled\t(jquery.datepicker2.js)"
+			],
+			[
+				"s",
+				"span\t<span>"
+			],
+			[
+				"str",
+				"strtotime\tabc"
+			],
+			[
+				"pos",
+				"post\tabc"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"star",
+				"startt\tabc"
+			],
+			[
+				"v",
+				"val\tabc"
+			],
+			[
+				"selec",
+				"selected\t(detail.php)"
+			],
+			[
+				"price",
+				"pricesale\tabc"
+			],
+			[
+				"pri",
+				"pricesale\t(detail.php)"
+			],
+			[
+				"date",
+				"datetime\tabc"
+			],
+			[
+				"img",
+				"imgroom\tabc"
+			],
+			[
+				"image",
+				"images_link\tabc"
+			],
+			[
+				"ar",
+				"arr\tabc"
+			],
+			[
+				"images",
+				"images_link\t(Hotel.php)"
+			],
+			[
+				"a",
+				"arr\tabc"
+			],
+			[
+				"imag",
+				"images_id\tabc"
+			],
+			[
+				"update",
+				"update\tabc"
+			],
+			[
+				"tex",
+				"text\tabc"
+			],
+			[
+				"ho",
+				"hotel_room_id\tabc"
+			],
+			[
+				"im",
+				"images_link\t(Hotel.php)"
+			],
+			[
+				"hotel_room",
+				"hotel_room_id\tabc"
+			],
+			[
+				"get_hotel",
+				"get_hotel_room_name\t(hotel_helper.php)"
+			],
+			[
+				"get_hote",
+				"get_hotel_city_room_name\t(hotel_helper.php)"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"get_ho",
+				"get_hotel_city\t(hotel_helper.php)"
+			],
+			[
+				"data",
+				"data-toggle\tabc"
+			],
+			[
+				"ed",
+				"editRoomhotel\tabc"
+			],
+			[
+				"sel",
+				"selected\t(style.css)"
+			],
+			[
+				"ci",
+				"city\tabc"
+			],
+			[
+				"hotel_c",
+				"hotel_city\t(Hotel.php)"
+			],
+			[
+				"edi",
+				"editRoomhotel/$1\t(routes.php)"
+			],
+			[
+				"hote",
+				"hotel_content\t(Hotel.php)"
+			],
+			[
+				"get_",
+				"get_hotel_name\tabc"
+			],
+			[
+				"HO",
+				"Hotel_model\tabc"
+			],
+			[
+				"hotel_s",
+				"hotel_status\t(Hotel.php)"
+			],
+			[
+				"he",
+				"href\tAttr"
+			],
+			[
+				"up",
+				"updatehotel\t(Hotel_model.php)"
+			],
+			[
+				"ara",
+				"array\tabc"
+			],
+			[
+				"con",
+				"content\tabc"
+			],
+			[
+				"hotel",
+				"hotel_id\tabc"
+			],
+			[
+				"boo",
+				"booking_status\tabc"
+			],
+			[
+				"as",
+				"assets\tabc"
+			],
+			[
+				"alr",
+				"alert\t( message?: DOMString ): void Window"
+			],
+			[
+				"data-",
+				"data-size=\"small\tabc"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"bookin",
+				"booking_id\tabc"
+			],
+			[
+				"ke",
+				"key\tabc"
+			],
+			[
+				"Bo",
+				"Booking_model\tabc"
+			],
+			[
+				"al",
+				"alert\t(detailbooking.php)"
+			],
+			[
+				"post",
+				"postData\tabc"
+			],
+			[
+				"wri",
+				"write\t( text_..: DOMString ): void Document"
+			],
+			[
+				"k",
+				"key\tabc"
+			],
+			[
+				"cr",
+				"crm"
+			],
+			[
+				"base",
+				"base_url\tabc"
+			],
+			[
+				"to",
+				"toggle\t(listbooking.php)"
+			],
+			[
+				"Boo",
+				"Booking_model\t(Booking_model.php)"
+			],
+			[
+				"bo",
+				"bookingdetail\t(Booking.php)"
+			],
+			[
+				"B",
+				"Booking_model\t(Order_model.php)"
+			],
+			[
+				"get_img_room_",
+				"get_img_room_book\tabc"
+			],
+			[
+				"hotel_rom",
+				"hotel_room_price\tabc"
+			],
+			[
+				"hotel_room_",
+				"hotel_room_price\t(detail.php)"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ep",
+				"ep\techo-snippet"
+			],
+			[
+				"pi",
+				"price\tabc"
+			],
+			[
+				"Ho",
+				"Hotel_model\tabc"
+			],
+			[
+				"hot",
+				"hotel_room\tabc"
+			],
+			[
+				"upload",
+				"uploads\tabc"
+			],
+			[
+				"no",
+				"notify\t(Contact.php)"
+			],
+			[
+				"produc",
+				"product_id\t(Contact.php)"
+			],
+			[
+				"js",
+				"json_encode\tabc"
+			],
+			[
+				"j",
+				"join"
+			],
+			[
+				"set",
+				"set_content_type\tabc"
+			],
+			[
+				"fie",
+				"fields\tabc"
+			],
+			[
+				"cre",
+				"created_at\tabc"
+			],
+			[
+				"product",
+				"product_id\tabc"
+			],
+			[
+				"fi",
+				"fields\tabc"
+			],
+			[
+				"re",
+				"required\t(addCustomer.php)"
+			],
+			[
+				"fom",
+				"form_validation\t(Hello.php)"
+			],
+			[
+				"Price",
+				"Price-Sale\tabc"
+			],
+			[
+				"sa",
+				"san_pham\tabc"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"del",
+				"delete\tabc"
+			],
+			[
+				"Pr",
+				"Product_model\tabc"
+			],
+			[
+				"mo",
+				"method\t(routes.php)"
+			],
+			[
+				"fr",
+				"fromadd\t(Hello.php)"
+			],
+			[
+				"funci",
+				"function\t(routes.php)"
+			],
+			[
+				"funn",
+				"function"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"T",
+				"Test\t(web.php)"
+			],
+			[
+				"contac",
+				"contact\tabc"
+			],
+			[
+				"sal",
+				"saleOnline\t(HomeController.php)"
+			],
+			[
+				"Mo",
+				"ModelContact\t(ModelContact.php)"
+			],
+			[
+				"mode",
+				"models\tabc"
+			],
+			[
+				"Lo",
+				"Login\t(CreateAccout.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"i:",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"is",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"i;",
+				"Snippet: &nbsp;"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"I:",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				":i",
+				"Git: Init"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"isal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" rimport urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Froject"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/LuanVanTotNghiep/listvacxin.php",
+		"/C/xampp/htdocs/LuanVanTotNghiep/datlich.php",
+		"/C/xampp/htdocs/LuanVanTotNghiep/lichsu.php",
+		"/C/xampp/htdocs/LuanVanTotNghiep/AddAdmin.php",
+		"/C/xampp/htdocs/zozohotel/assets/crm/js/toggle/toggle.js",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/hotel/list.php",
+		"/C/xampp/htdocs/footer.rar123/footer/footer.css",
+		"/C/xampp/htdocs/footer.rar123/footer/footer.php",
+		"/C/xampp/htdocs/zozohotel/application/views/hotel/detail.php",
+		"/C/xampp/htdocs/zozohotel/application/models/Hotel_model.php",
+		"/C/xampp/htdocs/zozohotel/application/views/common/footer.php",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/booking/listbooking.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/Hotel.php",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/news/detailnews.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/crm/Booking.php",
+		"/C/xampp/htdocs/zozohotel/application/models/Config_model.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/crm/News.php",
+		"/C/xampp/htdocs/zozohotel/assets/js/main.js",
+		"/C/xampp/htdocs/zozohotel/application/controllers/News.php",
+		"/C/xampp/htdocs/zozohotel/application/helpers/main_helper.php",
+		"/C/xampp/htdocs/zozohotel/application/views/home.php",
+		"/C/xampp/htdocs/zozohotel/application/views/common/header.php",
+		"/C/xampp/htdocs/zozohotel/assets/css/customize.css",
+		"/C/xampp/htdocs/zozohotel/assets/crm/js/editors/ckeditor/ckeditor.js",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/common/header.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/Cart.php",
+		"/C/xampp/htdocs/zozohotel/assets/crm/js/elements/toastr/toastr_custom.js",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/news/listcatenews.php",
+		"/C/xampp/htdocs/zozohotel/assets/crm/js/booking/booking.js",
+		"/C/xampp/htdocs/zozohotel/application/controllers/crm/Hotel.php",
+		"/C/xampp/htdocs/zozohotel/assets/zozohotel/styles/style.css",
+		"/C/xampp/htdocs/zozohotel/application/helpers/hotel_helper.php",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/news/listnews.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/crm/Crm.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/Main.php",
+		"/C/xampp/htdocs/zozohotel/application/models/News_model.php",
+		"/C/xampp/htdocs/zozohotel/assets/zozohotel/scripts/jquery.datepicker2.js",
+		"/C/Users/Admin/Desktop/Web Font-End/1Project - Copy/js/click.js",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/hotel/listroom.php",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/common/footer.php",
+		"/C/xampp/htdocs/zozohotel/upload/img",
+		"/C/xampp/htdocs/zozohotel/application/models/Booking_model.php",
+		"/C/xampp/htdocs/zozohotel/application/helpers/booking_helper.php",
+		"/C/xampp/htdocs/zozohotel/application/config/autoload.php",
+		"/C/xampp/htdocs/zozohotel/system/database/DB_query_builder.php",
+		"/C/xampp/htdocs/zozohotel/assets/crm/js/Booking/booking.js",
+		"/C/xampp/htdocs/zozohotel/application/config/routes.php",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/Booking/listbooking.php",
+		"/C/xampp/htdocs/zozohotel/application/views/crm/Booking/detailbooking.php",
+		"/C/Users/Admin/Desktop/Web Font-End/Buổi8/BTVN/Bai3_phamvantai/bai3.js",
+		"/C/Users/Admin/Desktop/Web Font-End/Buổi9/BTVN/Bai1_phamvantai/bai1.js",
+		"/C/Users/Admin/Desktop/Web Font-End/Buổi11/BTVN/Bai1_phamvantai/bai1.js",
+		"/C/xampp/htdocs/zozohotel/application/models/Product_model.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/Product.php",
+		"/C/xampp/htdocs/zozohotel/application/models/Adminstrator_model.php",
+		"/C/xampp/htdocs/zozohotel/system/database/drivers/mysqli/mysqli_driver.php",
+		"/C/xampp/htdocs/zozohotel/index.php",
+		"/C/xampp/htdocs/zozohotel/application/controllers/Pages.php",
+		"/C/xampp/htdocs/zozohotel/assets/crm/css/iCheck/custom.css",
+		"/C/xampp/htdocs/zozohotel/application/config/config.php",
+		"/C/xampp/htdocs/zozohotel/application/config/database.php",
+		"/C/xampp/htdocs/nava.vn/application/modules/contact/controllers/Contact.php",
+		"/C/xampp/htdocs/nava.vn/application/config/routes.php",
+		"/C/xampp/htdocs/nava.vn/application/third_party/MX/Loader.php",
+		"/C/xampp/htdocs/nava.vn/application/modules/brand/controllers/Featuredbrand.php",
+		"/C/xampp/htdocs/nava.vn/application/libraries/restserver/REST_Controller.php",
+		"/C/xampp/htdocs/nava.vn/system/core/Input.php",
+		"/C/xampp/htdocs/nava.vn/application/modules/privilege/models/Rolepermission_model.php",
+		"/C/xampp/htdocs/nava.vn/application/config/config.php",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/xampp/htdocs/nava.vn/application/config/config_var.php",
+		"/C/xampp/htdocs/nava.vn/application/modules/contact/views/notify.php",
+		"/C/xampp/htdocs/nava.vn/assets/admin/contact/js/notify.js",
+		"/C/xampp/htdocs/nava.vn/application/modules/contact/views/contact.php",
+		"/C/xampp/htdocs/nava.vn/application/modules/contact/models/Contact_model.php",
+		"/C/xampp/htdocs/nava.vn/system/core/Output.php",
+		"/C/xampp/htdocs/nava.vn/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/nava.vn/application/helpers/noti_helper.php",
+		"/C/xampp/htdocs/nava.vn/application/views/crm/common/header.php",
+		"/C/xampp/htdocs/nava.vn/application/modules/brand/models/Featuredbrand_model.php",
+		"/C/xampp/htdocs/Nava/nava.vn/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/nava.vn/.htaccess",
+		"/C/xampp/htdocs/Nava/nava.vn/application/config/routes.php",
+		"/C/xampp/htdocs/nava.vn/application/views/crm/login.php",
+		"/C/xampp/htdocs/Nava/nava.vn/application/config/config.php",
+		"/C/xampp/htdocs/Nava/nava.vn/application/modules/adminstrator/controllers/Adminstrator.php",
+		"/C/xampp/htdocs/Nava/nava.vn/index.php",
+		"/C/xampp/htdocs/Nava/nava.vn/.htaccess",
+		"/C/xampp/htdocs/Nava/nava.vn/application/ci_sessions/ci_session82hb2ekpuai32n1tmniibfk4dc7ll873",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/config/autoload.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/Hello/list.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/controllers/Hello.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/Hello/add.php",
+		"/C/xampp/htdocs/Froject/views/Customer/addCustomer.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/controllers/From.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/system/helpers/form_helper.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/Form/myForm.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/Hello/edit.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/user_guide/_static/css/theme.css",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/Form/formsuccess.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/config/routes.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/system/libraries/Upload.php",
+		"/C/xampp/htdocs/Froject/views/Customer/listCustomer.php",
+		"/C/xampp/htdocs/Froject/models/model.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/models/Product_model.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/config/config.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/system/core/Loader.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/.htaccess",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/index.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/Hello/bac.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/config/database.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/index.html",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/Hello/index.php",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/welcome_message.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/application/views/errors/index.html",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/system/libraries/Parser.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/CodeIgniter-3.1.11/index.php",
+		"/C/xampp/htdocs/CodeIgniter-3.1.11/CodeIgniter-3.1.11/application/config/database.php",
+		"/C/xampp/htdocs/Froject/index.php",
+		"/C/xampp/htdocs/Froject/controllers/LoginController.php",
+		"/C/xampp/htdocs/laravelTest/routes/web.php",
+		"/C/xampp/htdocs/Froject/views/saleOnline/home.php",
+		"/C/xampp/htdocs/laravelTest/app/Http/Controllers/TestController.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"home",
+				"application\\views\\home.php"
+			],
+			[
+				"list",
+				"application\\views\\crm\\hotel\\list.php"
+			],
+			[
+				"hoe",
+				"application\\views\\home.php"
+			],
+			[
+				"Cart",
+				"application\\controllers\\Cart.php"
+			],
+			[
+				"mysqli_driver.php",
+				"system\\database\\drivers\\mysqli\\mysqli_driver.php"
+			],
+			[
+				"config",
+				"application\\config\\config_var.php"
+			],
+			[
+				"login",
+				"nava.vn\\application\\views\\crm\\login.php"
+			],
+			[
+				"rou",
+				"taiphamvanProject\\vendor\\symfony\\routing\\Route.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
